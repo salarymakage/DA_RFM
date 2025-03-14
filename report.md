@@ -750,48 +750,48 @@ Name: count, dtype: int64
 ### Visualitaiton
 This Treemap is showing about the cutomer segmentation based on the RFM. Color given based on the rank of the segmentation.
 
-![alt text]([image-11.png](https://github.com/salarymakage/DA_RFM/blob/main/image/image-11.png?raw=true))
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image/image-11.png?raw=true)
 
 #### Median Recency
 This graph tells you how many days ago, on average, customers in each group like buying.
  
-![alt text](image-12.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-12.png?raw=true)
 
 #### Median Frequency
 This graph shows how many times, on average, customers in each group like buying.
 
-![alt text](image-13.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-13.png?raw=true)
 
 #### Median Monetary Value
 This graph shows the average amount of money, in dollars, that customers in each group spend.
 
-![alt text](image-14.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-14.png?raw=true)
 
 #### Heat Map
 
-![alt text](image-4.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-4.png?raw=true)
 
 #### Bar Chart
 This chart helps you see how much money customers spend based on how recently and how often they interact. It shows that most customers, no matter their recency or frequency, tend to spend less (Monetary Score 1), but some groups (like R=1, F=5) have a few who spend more.
 
-![alt text](image-5.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-5.png?raw=true)
 
 #### Histogram
 These graphs give a quick look at how recent, frequent, and valuable customers are. Most are active recently (100-200 days), interact a few times (4-6), and spend a little (200-400 dollars).
-![alt text](image-6.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-6.png?raw=true)
 
 #### Customers by Orders
 This graph show about the number customer orders 
-![alt text](image-15.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-15.png?raw=true)
 
 #### Recency vs Monetary Value
 
-![alt text](image-8.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-8.png?raw=true)
 
 #### Frequency vs Monetary Value
 
-![alt text](image-17.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-17.png?raw=true)
 
 #### Recency vs Frequency
 
-![alt text](image-16.png)
+![alt text](https://github.com/salarymakage/DA_RFM/blob/main/image//image-16.png?raw=true)
