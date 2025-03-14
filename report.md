@@ -750,7 +750,7 @@ Name: count, dtype: int64
 ### Visualitaiton
 This Treemap is showing about the cutomer segmentation based on the RFM. Color given based on the rank of the segmentation.
 
-![alt text](image-11.png)
+![alt text]([image-11.png](https://github.com/salarymakage/DA_RFM/blob/main/image/image-11.png?raw=true))
 
 #### Median Recency
 This graph tells you how many days ago, on average, customers in each group like buying.
